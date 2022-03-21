@@ -4,7 +4,7 @@ void checkPrimeAndDisplay(int n);
 int main()
 {
     int n;
-
+printf("raghav");
     printf("Enter a positive integer: ");
     scanf("%d",&n);
 
