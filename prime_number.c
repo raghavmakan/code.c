@@ -3,7 +3,7 @@ int prime(int n);
 int main()
 {
     int n, flag;
-    printf("siddhant\n");
+    printf("raghav\n");
     printf("Enter a positive integer: ");
     scanf("%d",&n);
 
