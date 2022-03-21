@@ -7,6 +7,7 @@ struct students
 };
 struct students s1,s2;
 void print()
+    printf("raghav");
 {
 
 }
