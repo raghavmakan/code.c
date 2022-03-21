@@ -12,6 +12,7 @@ struct student
 
 int main()
 {
+    printf("raghav");
     struct student arr_student[MAX];
     int i, j;
     float sum = 0;
