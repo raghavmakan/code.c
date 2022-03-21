@@ -5,7 +5,7 @@ int main()
 {
     char s[1000];  
     int i,n,c=0;
- 
+ printf("raghav");
     printf("Enter  the string : ");
     gets(s);
     n=strlen(s);
