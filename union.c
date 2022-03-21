@@ -1,5 +1,5 @@
 // wap to find the size of union and the number of byte reserved for it.
-/*#include <stdio.h>
+#include <stdio.h>
 
 union result
 {
@@ -24,6 +24,7 @@ int main()
         int marks;
         char grade;
     };
+    printf("raghav");
     struct xy
     {
         int age;
@@ -34,21 +35,7 @@ int main()
     printf("%d", sizeof(data.r));
     return 0;
 }
-
-//the enum keyword is used to declare enumeration
-//type the programmer can create on data type and define what values the variables of these data types can hold
-
-
-#include<stdio.h>
-
-int main()
-{
-    enum month{jan,feb,march,april,may,june,july,august,september,october,november,december};
-    printf("%d",jan);
-    return 0;
-}
-
-//wap to display the name of month using enum rate datatype intialize enum data with userdefined constant
+stant
 
 #include<stdio.h>
 
