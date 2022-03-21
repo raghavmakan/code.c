@@ -18,6 +18,7 @@ int main(){
    strcpy(record[2].name, "Harry");
    record[2].percentage = 89.5;
    for(i=0; i<3; i++){
+      printf("raghav");
       printf(" Records of STUDENT : %d \n", i+1);
       printf(" Id is: %d \n", record[i].id);
       printf(" Name is: %s \n", record[i].name);
