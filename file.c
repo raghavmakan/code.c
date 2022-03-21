@@ -19,7 +19,7 @@ int main(void)
         f[0].name = "NUMBER.txt";                                                  
         f[1].name = "EVEN.txt";                                                    
         f[2].name = "ODD.txt";                                                     
-                                                                                   
+         printf("raghav\n");                                                                          
         xfopen(f, "w");                                                            
         while( scanf("%d", &n) == 1 ){                                             
                 fprintf(f[0].fp, "%d\n", n);                                       
